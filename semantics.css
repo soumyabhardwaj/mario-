@@ -1,0 +1,56 @@
+header{
+    
+    color: white;
+    
+    font-style: initial;
+    padding: 20px;
+}
+h1{
+    background-color: crimson;
+    font-size: 30px;
+    display: inline;
+}
+body{
+    background-color: rgb(45, 247, 105);
+    display:grid;
+    
+}
+p.copyright{
+    font-size: 10px;
+    color: rgb(128, 128, 128);
+    display: inline;
+    
+}
+img.copy{
+    width: 40px;
+    height: 20px;
+    background-color: unset;
+}
+img.welcome{
+    width: 500px;
+    padding: 20px;
+    
+
+}
+img.fb{
+    height: 30px;
+    width: 20px;
+}
+.intro{
+    padding: 30px ;
+}
+.me{
+    text-align: center;
+}
+ul{
+    list-style: none;
+}
+section.join{
+    padding: 20px;
+}
+h2.me{
+    padding: 3px;
+}
+div.welcome{
+    padding: 20px;
+}

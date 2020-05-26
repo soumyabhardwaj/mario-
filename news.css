@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(45, 247, 105);
+    display: grid;
+    grid-template-rows: 60px auto;
+}
+h1{
+    text-decoration: underline;
+    font-weight: bold;
+    text-align: center;
+}
+img{
+    border: black 10px;
+    padding: 20px ;
+}
+p{
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(158, 15, 15);
+    border: 5px black solid;
+    padding: 30px;
+    text-decoration: none;
+}
+a[href]{
+    text-decoration: underline;
+    color: rgb(158, 15, 15);
+}

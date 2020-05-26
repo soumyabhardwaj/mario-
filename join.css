@@ -1,0 +1,19 @@
+body{
+
+background-color: rgb(45, 247, 105);
+display: grid;
+
+grid-template-rows: 60px auto 30px;
+
+}
+header{
+    text-decoration: underline;
+    text-align: center;
+    font-style: italic;
+    letter-spacing: 1px;
+}
+p{
+    color: black;
+    font-weight: bold;
+    padding: 30px;
+}
